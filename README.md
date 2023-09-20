@@ -2,3 +2,14 @@
 |:---:|:---:|:---:|
 |📍|**Location**|Canada|
 |📫|**MTP Contact**|vmzmf9966wn4lfsh@proton.me|
+|🌐|**Web Service**|-|
+
+### Skills
+|**?**|**?**|
+|:---:|:---:|
+|-|-|
+
+### Projects
+|**Project Name**|**Languages**|**Description**|
+|:---:|:---:|:---|
+|-|-|-|
